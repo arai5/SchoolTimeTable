@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>754931146767-d3hg3fd6fn82slu427qvka69m3nt2bbg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.754931146767-d3hg3fd6fn82slu427qvka69m3nt2bbg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXJP_NBSfv8YnWVa8l0_43M1Lka9Xtdzw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>754931146767</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.test.schoolITimeTable</string>
+	<key>PROJECT_ID</key>
+	<string>schooltimetable-4b3cc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>schooltimetable-4b3cc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:754931146767:ios:30772a4e36e8e61dd1837a</string>
+</dict>
+</plist>
